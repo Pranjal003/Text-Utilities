@@ -14,7 +14,7 @@ import {
 // href= "#" to "/"
 // yeh changes krrna jaruri h
 
-function App() {
+function App() {   
   const [mode,setmode] = useState('light');
   const [alert,setAlert] = useState(null);
 
