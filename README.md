@@ -9,3 +9,4 @@ Also it gives summary of our text like number of words, time to read,etc.
 ![image](https://github.com/Pranjal003/Text-Utilities/assets/92199952/a0243143-083b-411a-b152-a310a3c1677d)
 
 ![image](https://github.com/Pranjal003/Text-Utilities/assets/92199952/0fee07e0-db6a-42eb-a3e1-ec22bff7fd54)
+   
