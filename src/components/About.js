@@ -1,6 +1,6 @@
 import React from 'react'
 
-
+  
 export default function About(props) {
 
     // const [mystyle,setMyStyle] = useState(
